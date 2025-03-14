@@ -52,7 +52,7 @@ Deep dives into LLM reasoning
 
 ## ⚡ Inference Intervention
 
-Managing inference time and computation
+Interventions during model inference process
 
 | Title | Year | Venue | Paper | Code |
 |-------|------|-------|-------|------|
@@ -61,7 +61,7 @@ Managing inference time and computation
 
 ## 🧠 Latent Space Reasoning
 
-Reasoning in compressed spaces
+Reasoning in latent spaces
 
 | Title | Year | Venue | Paper | Code |
 |-------|------|-------|-------|------|
