@@ -1,4 +1,4 @@
-# 🚀 Awesome Efficient Reasoning LLMs Papers
+# 🚀 Awesome Long2Short Papers
 
 A curated list of papers about making LLM reasoning more efficient (shorter/faster/better).
 
