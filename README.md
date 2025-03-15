@@ -112,7 +112,7 @@ Latest advances in efficient reasoning
 
 | Title | Year | Venue | Paper | Code |
 |-------|------|-------|-------|------|
-| **S*: Test Time Scaling for Code Generation** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.14382) | - |
+| **S\*: Test Time Scaling for Code Generation** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.14382) | - |
 | **Efficiently Serving LLM Reasoning Programs with Certaindex** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2412.20993) | - |
 | **Inner Thinking Transformer- Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.13842) | - |
 | **Learning to Reason from Feedback at Test-Time** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.15771) | - |
