@@ -137,4 +137,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/awesome-long2short-papers&type=Date)](https://star-history.com/#your-username/awesome-long2short-papers&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yzhangchuck/awesome-llm-reasoning-long2short-papers&type=Date)](https://star-history.com/#yzhangchuck/awesome-llm-reasoning-long2short-papers&Date)
