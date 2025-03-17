@@ -27,30 +27,48 @@ If you find this resource helpful, please cite the relevant papers:
 
 ## 📚 Table of Contents
 
-- [Analysis and Understanding](#-analysis-and-understanding)
-- [Inference Intervention](#-inference-intervention)
-- [Latent Space Reasoning](#-latent-space-reasoning)
-- [Supervised Fine-tuning](#-supervised-fine-tuning)
-- [Steering Vector](#️-steering-vector)
-- [Reinforcement Learning Approaches](#-reinforcement-learning-approaches)
-- [General Papers](#-general-papers)
+- [🔍 Analysis and Understanding](#analysis)
+- [🤔 Reasoning Scaling](#reasoning_scaling)
+- [⚡ Inference Intervention](#inference)
+- [🧠 Latent Reasoning](#latent)
+- [📚 Supervised Fine-tuning](#sft)
+- [🎛️ Steering Vector](#steering)
+- [🎯 Reinforcement Learning Approaches](#rl)
+- [🌟 General Papers](#general)
 
 
 ---
 
 
-## 🔍 Analysis and Understanding
+## 🔍 Analysis and Understanding <a id="analysis"></a>
 
 Deep dives into LLM reasoning
 
 | Title | Year | Venue | Paper | Code |
 |-------|------|-------|-------|------|
-| **Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2412.21187) | - |
 | **How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2503.01141) | [[Code]](https://github.com/Compressed-CoT/compressed-cot) |
 | **Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.18080) | - |
+| **Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2412.21187) | - |
 
 
-## ⚡ Inference Intervention
+
+## 🤔 Reasoning Scaling <a id="reasoning_scaling"></a>
+
+Scaling up reasoning
+
+| Title | Year | Venue | Paper | Code |
+|-------|------|-------|-------|------|
+| **Beyond Human Data  Scaling Self Training for Problem Solving with Language Models** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/beyondhumandatascalingselftrainingforproblemsolvingwithlanguagemodels) | - |
+| **Let’s Verify Step by Step** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/let’sverifystepbystep) | - |
+| **REFT  Reasoning with REinforced Fine Tuning** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/reftreasoningwithreinforcedfinetuning) | - |
+| **ReST MCTS∗  LLM Self Training via Process Reward Guided Tree Search** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/restmcts∗llmselftrainingviaprocessrewardguidedtreesearch) | - |
+| **Recursive Introspection  Teaching Language Model Agents How to Self Improve** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/recursiveintrospectionteachinglanguagemodelagentshowtoselfimprove) | - |
+| **Scaling LLM Test Time Compute Optimally can be More Effective than Scaling Model Parameters** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/scalingllmtesttimecomputeoptimallycanbemoreeffectivethanscalingmodelparameters) | - |
+| **Test Time Preference Optimization  On the Fly Alignment via Iterative Textual Feedback** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/testtimepreferenceoptimizationontheflyalignmentviaiterativetextualfeedback) | - |
+
+
+
+## ⚡ Inference Intervention <a id="inference"></a>
 
 Interventions during model inference process
 
@@ -59,21 +77,23 @@ Interventions during model inference process
 | **When More is Less- Understanding Chain-of-Thought Length in LLMs** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.07266) | - |
 
 
-## 🧠 Latent Space Reasoning
+
+## 🧠 Latent Reasoning <a id="latent"></a>
 
 Reasoning in latent spaces
 
 | Title | Year | Venue | Paper | Code |
 |-------|------|-------|-------|------|
-| **Compressed Chain of Thought- Efficient Reasoning through Dense Representations** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2412.13171) | - |
 | **LightThinker- Thinking Step-by-Step Compression** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.15589) | - |
-| **Quiet-STaR- Language Models Can Teach Themselves to Think Before Speaking** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2403.09629) | - |
 | **Scaling up Test-Time Compute with Latent Reasoning- A Recurrent Depth Approach** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.05171) | [[Code]](https://github.com/seal-rg/recurrent-pretraining) |
 | **Token Assorted- Mixing Latent and Text Tokens for Improved Language Model Reasoning** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.03275) | - |
+| **Compressed Chain of Thought- Efficient Reasoning through Dense Representations** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2412.13171) | - |
+| **Quiet-STaR- Language Models Can Teach Themselves to Think Before Speaking** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2403.09629) | - |
 | **Training Large Language Models to Reason in a Continuous Latent Space** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2412.06769) | - |
 
 
-## 📚 Supervised Fine-tuning
+
+## 📚 Supervised Fine-tuning <a id="sft"></a>
 
 Direct optimization for efficiency
 
@@ -84,7 +104,8 @@ Direct optimization for efficiency
 | **s1- Simple test-time scaling** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2501.19393) | [[Code]](https://github.com/simplescaling/s1) |
 
 
-## 🎛️ Steering Vector
+
+## 🎛️ Steering Vector <a id="steering"></a>
 
 Steering model behavior through vector manipulation
 
@@ -94,7 +115,7 @@ Steering model behavior through vector manipulation
 
 
 
-## 🎯 Reinforcement Learning Approaches
+## 🎯 Reinforcement Learning Approaches <a id="rl"></a>
 
 Training models to reason efficiently
 
@@ -106,16 +127,17 @@ Training models to reason efficiently
 | **Training Language Models to Reason Efficiently** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.04463) | [[Code]](https://github.com/Zanette-Labs/efficient-reasoning) |
 
 
-## 🌟 General Papers
+
+## 🌟 General Papers <a id="general"></a>
 
 Latest advances in efficient reasoning
 
 | Title | Year | Venue | Paper | Code |
 |-------|------|-------|-------|------|
-| **S\*: Test Time Scaling for Code Generation** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.14382) | [[Code]](https://github.com/NovaSky-AI/SkyThought) |
-| **Efficiently Serving LLM Reasoning Programs with Certaindex** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2412.20993) | - |
 | **Inner Thinking Transformer- Leveraging Dynamic Depth Scaling to Foster Adaptive Internal Thinking** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.13842) | - |
 | **Learning to Reason from Feedback at Test-Time** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.15771) | [[Code]](https://github.com/LaVi-Lab/FTTT) |
+| **S\*: Test Time Scaling for Code Generation** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.14382) | [[Code]](https://github.com/NovaSky-AI/SkyThought) |
+| **Efficiently Serving LLM Reasoning Programs with Certaindex** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2412.20993) | - |
 
 
 ## 🤝 Contributing
