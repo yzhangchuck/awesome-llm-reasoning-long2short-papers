@@ -33,7 +33,7 @@ If you find this resource helpful, please cite the relevant papers:
 - [🧠 Latent Reasoning](#latent)
 - [📚 Supervised Fine-tuning](#sft)
 - [🎛️ Steering Vector](#steering)
-- [🎯 Reinforcement Learning Approaches](#rl)
+- [🎯 Reinforcement Learning](#rl)
 - [🌟 General Papers](#general)
 
 
@@ -58,13 +58,13 @@ Scaling up reasoning
 
 | Title | Year | Venue | Paper | Code |
 |-------|------|-------|-------|------|
-| **Beyond Human Data  Scaling Self Training for Problem Solving with Language Models** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/beyondhumandatascalingselftrainingforproblemsolvingwithlanguagemodels) | - |
-| **Let’s Verify Step by Step** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/let’sverifystepbystep) | - |
-| **REFT  Reasoning with REinforced Fine Tuning** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/reftreasoningwithreinforcedfinetuning) | - |
-| **ReST MCTS∗  LLM Self Training via Process Reward Guided Tree Search** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/restmcts∗llmselftrainingviaprocessrewardguidedtreesearch) | - |
-| **Recursive Introspection  Teaching Language Model Agents How to Self Improve** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/recursiveintrospectionteachinglanguagemodelagentshowtoselfimprove) | - |
-| **Scaling LLM Test Time Compute Optimally can be More Effective than Scaling Model Parameters** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/scalingllmtesttimecomputeoptimallycanbemoreeffectivethanscalingmodelparameters) | - |
-| **Test Time Preference Optimization  On the Fly Alignment via Iterative Textual Feedback** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/testtimepreferenceoptimizationontheflyalignmentviaiterativetextualfeedback) | - |
+| **Beyond Human Data  Scaling Self Training for Problem Solving with Language Models** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2312.06585) | - |
+| **Let’s Verify Step by Step** | 2023 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2305.20050) | - |
+| **REFT  Reasoning with REinforced Fine Tuning** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2401.08967) | - |
+| **ReST MCTS∗  LLM Self Training via Process Reward Guided Tree Search** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2406.03816) | - |
+| **Recursive Introspection  Teaching Language Model Agents How to Self Improve** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2407.18219) | - |
+| **Scaling LLM Test Time Compute Optimally can be More Effective than Scaling Model Parameters** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2408.03314) | - |
+| **Test Time Preference Optimization  On the Fly Alignment via Iterative Textual Feedback** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2501.12895) | - |
 
 
 
@@ -115,7 +115,7 @@ Steering model behavior through vector manipulation
 
 
 
-## 🎯 Reinforcement Learning Approaches <a id="rl"></a>
+## 🎯 Reinforcement Learning <a id="rl"></a>
 
 Training models to reason efficiently
 
