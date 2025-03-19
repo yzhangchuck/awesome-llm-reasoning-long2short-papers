@@ -58,13 +58,13 @@ Scaling up reasoning
 
 | Title | Year | Venue | Paper | Code |
 |-------|------|-------|-------|------|
-| **Beyond Human Data  Scaling Self Training for Problem Solving with Language Models** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2312.06585) | - |
-| **Let’s Verify Step by Step** | 2023 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2305.20050) | - |
-| **REFT  Reasoning with REinforced Fine Tuning** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2401.08967) | - |
-| **ReST MCTS∗  LLM Self Training via Process Reward Guided Tree Search** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2406.03816) | - |
-| **Recursive Introspection  Teaching Language Model Agents How to Self Improve** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2407.18219) | - |
+| **Test Time Preference Optimization  On the Fly Alignment via Iterative Textual Feedback** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2501.12895) | [[Code]](https://github.com/yafuly/TPO) |
+| **Beyond Human Data  Scaling Self Training for Problem Solving with Language Models** | 2024 | TMLR | [[Paper]]([https://arxiv.org/abs/2312.06585](https://openreview.net/forum?id=lNAyUngGFK)) | - |
+| **REFT  Reasoning with REinforced Fine Tuning** | 2024 | ACL | [[Paper]](https://aclanthology.org/2024.acl-long.410/) | [[Code]](https://github.com/lqtrung1998/mwp_ReFT) |
+| **ReST MCTS∗  LLM Self Training via Process Reward Guided Tree Search** | 2024 | NeurIPS | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/76ec4dc30e9faaf0e4b6093eaa377218-Abstract-Conference.html) | [[Code]](https://github.com/THUDM/ReST-MCTS) |
+| **Recursive Introspection  Teaching Language Model Agents How to Self Improve** | 2024 | NeurIPS | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/639d992f819c2b40387d4d5170b8ffd7-Abstract-Conference.html) | [[Code]](https://github.com/cmu-mind/RISE) |
 | **Scaling LLM Test Time Compute Optimally can be More Effective than Scaling Model Parameters** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2408.03314) | - |
-| **Test Time Preference Optimization  On the Fly Alignment via Iterative Textual Feedback** | 2024 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2501.12895) | - |
+| **Let’s Verify Step by Step** | 2023 | ICLR | [[Paper]](https://openreview.net/forum?id=v8L0pN6EOi) | - |
 
 
 
