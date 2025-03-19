@@ -59,7 +59,7 @@ Scaling up reasoning
 | Title | Year | Venue | Paper | Code |
 |-------|------|-------|-------|------|
 | **Test Time Preference Optimization  On the Fly Alignment via Iterative Textual Feedback** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2501.12895) | [[Code]](https://github.com/yafuly/TPO) |
-| **Beyond Human Data  Scaling Self Training for Problem Solving with Language Models** | 2024 | TMLR | [[Paper]]([https://arxiv.org/abs/2312.06585](https://openreview.net/forum?id=lNAyUngGFK)) | - |
+| **Beyond Human Data  Scaling Self Training for Problem Solving with Language Models** | 2024 | TMLR | [[Paper]](https://openreview.net/forum?id=lNAyUngGFK) | - |
 | **REFT  Reasoning with REinforced Fine Tuning** | 2024 | ACL | [[Paper]](https://aclanthology.org/2024.acl-long.410/) | [[Code]](https://github.com/lqtrung1998/mwp_ReFT) |
 | **ReST MCTS∗  LLM Self Training via Process Reward Guided Tree Search** | 2024 | NeurIPS | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/76ec4dc30e9faaf0e4b6093eaa377218-Abstract-Conference.html) | [[Code]](https://github.com/THUDM/ReST-MCTS) |
 | **Recursive Introspection  Teaching Language Model Agents How to Self Improve** | 2024 | NeurIPS | [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/639d992f819c2b40387d4d5170b8ffd7-Abstract-Conference.html) | [[Code]](https://github.com/cmu-mind/RISE) |
