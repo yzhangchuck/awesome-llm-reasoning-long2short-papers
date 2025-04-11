@@ -84,6 +84,7 @@ Reasoning in latent spaces
 
 | Title | Year | Venue | Paper | Code |
 |-------|------|-------|-------|------|
+| **TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers’ Guidance** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2503.24198) | - |
 | **LightThinker- Thinking Step-by-Step Compression** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.15589) | - |
 | **Scaling up Test-Time Compute with Latent Reasoning- A Recurrent Depth Approach** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.05171) | [[Code]](https://github.com/seal-rg/recurrent-pretraining) |
 | **Token Assorted- Mixing Latent and Text Tokens for Improved Language Model Reasoning** | 2025 | arXiv preprint | [[Paper]](https://arxiv.org/abs/2502.03275) | - |
